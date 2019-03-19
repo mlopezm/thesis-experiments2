@@ -1,5 +1,4 @@
-# thesis-experiments2
-## Code for the experiments of the Doctoral Thesis
+# Code for the experiments of the Doctoral Thesis
 This repository contains the code for papers without restrictions due to the property rights of the datasets.
 The repository contains a zip file, which once extracted produces two directories: vae and cvae. 
 
